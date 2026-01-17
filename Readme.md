@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Салават</h1>
 <h3 align="center">Я активно развиваюсь в сфере frontend-разработки и уже продвинулся далеко за пределы начальных навыков. Моя текущая база знаний включает в себя владение HTML5, CSS3, включая препроцессоры, такие как Sass и Scss во всех синтаксисах. Кроме того, я уверенно владею JavaScript. Моя постоянная цель - постоянное совершенствование навыков и поиск новых возможностей для роста в сфере frontend-разработки.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delesso&label=Profile%20views&color=0e75b6&style=flat" alt="delesso" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delesso" alt="delesso" /></a> </p>
 
